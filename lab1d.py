@@ -1,5 +1,5 @@
 #Author:Maximillian Havrylyuk
-#Lab1c.py
+#Lab1d.py
 #using indexing to return certain characters from a string and use formating to format a sentence with
 #my name and age
 
